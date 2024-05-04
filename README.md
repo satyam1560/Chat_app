@@ -1,16 +1,19 @@
-# chat
 
-A new Flutter project.
+# Chat App
+A group chat application where users sign up, login, and engage in group conversations. First users create accounts, then log in to join connected groups for personal and group chats.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](./assets/ss.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- [X]  Email Authentication
+- [x]  Group Chatting
+- [x]  LogOut
+- [x]  Firebase mesaging
+ 
+ 
+ 
+ 
